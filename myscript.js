@@ -5,8 +5,8 @@
 
 // genero i numeri da 1 a 100
 
-for(i = 0; i < 100; i++){
-  console.log(i + 1);
+for(i = 1; i < 100; i++){
+  console.log(i);
   if(i % 3 === 0){
     console.log('Fizz');
   }
