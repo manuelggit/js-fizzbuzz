@@ -10,9 +10,13 @@ for(i = 0; i < 100; i++){
 }
 
 for(j = 0; j < 99; j = j+3){
-console.log(j + 3);
+  console.log('Fizz');
 }
 
 for(z = 0; z < 100; z = z+5){
-console.log(z + 5);
+  console.log('Buzz');
+}
+
+for(h = 0; h < 100; h = h+15){
+  console.log('FizzBuzz');
 }
