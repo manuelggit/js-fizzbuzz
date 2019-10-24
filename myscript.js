@@ -8,3 +8,11 @@
 for(i = 0; i < 100; i++){
   console.log(i + 1);
 }
+
+for(j = 0; j < 99; j = j+3){
+console.log(j + 3);
+}
+
+for(z = 0; z < 100; z = z+5){
+console.log(z + 5);
+}
